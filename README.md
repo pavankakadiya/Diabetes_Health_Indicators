@@ -8,7 +8,7 @@ This repository contains a machine learning project focused on predicting diabet
 
 **Dataset:**
 
-The project utilizes the "Diabetes Health Indicators Dataset," which contains various health-related features and a target variable indicating the presence or absence of diabetes. The dataset may be found [here](link to dataset if publicly available). 
+The project utilizes the "Diabetes Health Indicators Dataset," which contains various health-related features and a target variable indicating the presence or absence of diabetes. 
 
 **Project Workflow:**
 
@@ -28,7 +28,7 @@ The project utilizes the "Diabetes Health Indicators Dataset," which contains va
 
 **How to use:**
 
-1. Clone this repository: `git clone [repository URL]`
+1. Clone this repository: `https://github.com/pavankakadiya/Diabetes_Health_Indicators.git`
 2. Upload the dataset "Diabetes_Health_Indicators.csv" to the Colab environment.
 3. Run the Jupyter notebook to execute the code. 
 
